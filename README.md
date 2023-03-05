@@ -21,10 +21,10 @@ URLS = [
 
 ### How to use
 
-![](./images/Screenshot-002.jpg)
+![Screenshot-002](./images/Screenshot-002.jpg)
 
-![](./images/Screenshot-003.jpg)
+![Screenshot-003](./images/Screenshot-003.jpg)
 
-![](./images/Screenshot-001.jpg)
+![Screenshot-001](./images/Screenshot-001.jpg)
 
-![How to use](./images/Screenshot-004.GIF)
+![How to use](./images/Screenshot-004.gif)
