@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# GitHub: https://github.com/0xdolan/v2ray_config_generator.git
+
+"""Get random configs from multiple sources."""
+
 
 import base64
 import datetime
